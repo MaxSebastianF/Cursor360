@@ -1,0 +1,3 @@
+cargo add device_query
+cargo add vigem-client
+cargo build

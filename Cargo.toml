@@ -1,0 +1,9 @@
+[package]
+name = "control-Simulator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+device_query = "3.0.1"
+vigem-client = "0.1.4"
+winapi = { version = "0.3", features = ["winuser"] }
