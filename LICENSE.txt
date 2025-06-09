@@ -1,0 +1,11 @@
+Copyright (c) 2025 Daniel Flores
+
+Permission is granted to use, modify, and distribute this software for personal and educational purposes, under the following conditions:
+
+1. Commercial use is prohibited without explicit written permission.
+2. Redistributions must retain this license and the original author credit.
+3. The software is provided "as is", without warranty of any kind.
+
+Any use of this software in violation of the above terms may result in legal consequences.
+
+For commercial licensing, contact: danielmaximofg@gmail.com

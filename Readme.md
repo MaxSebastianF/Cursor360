@@ -53,3 +53,9 @@ cargo run
 ### Run Build
 
 Execute .exe who's inside target/release
+
+
+
+### 📄 License
+
+This project uses a custom license. See [LICENSE](./LICENSE) for details.
