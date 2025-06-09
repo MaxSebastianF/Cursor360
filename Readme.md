@@ -45,7 +45,7 @@ Perfect for:
 git clone https://github.com/yourusername/Cursor360.git
 cd Cursor360
 cargo run 
----
+```
 
 ### Run Build
 
