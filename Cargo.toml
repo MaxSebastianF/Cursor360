@@ -5,5 +5,12 @@ edition = "2024"
 
 [dependencies]
 device_query = "3.0.1"
+eframe = "0.31.1"
+egui = "0.31.1"
 vigem-client = "0.1.4"
-winapi = { version = "0.3", features = ["winuser"] }
+
+windows = { version = "0.61.1", features = [
+    "Win32_UI_WindowsAndMessaging",
+    "Win32_UI_Input_KeyboardAndMouse",
+    "Win32_Foundation"
+] }

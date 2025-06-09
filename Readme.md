@@ -44,4 +44,4 @@ Perfect for:
 ```bash
 git clone https://github.com/yourusername/Cursor360.git
 cd Cursor360
-cargo run --release
+cargo run 
