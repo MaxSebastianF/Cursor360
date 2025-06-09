@@ -39,9 +39,14 @@ Perfect for:
 - ViGEmBus driver: [Download](https://vigem.org/projects/ViGEm/ViGEm-Bus-Driver/)
 
 
-### 🧪 Build & Run
+### 🧪 Run
 
 ```bash
 git clone https://github.com/yourusername/Cursor360.git
 cd Cursor360
 cargo run 
+---
+
+### Run Build
+
+Execute .exe who's inside target/release
